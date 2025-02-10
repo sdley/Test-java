@@ -1,4 +1,14 @@
-# Tests Java
+# Test-java
+
+## Overview
+**Test-java** is a comprehensive Java testing framework designed to simplify the process of writing, executing, and managing unit tests. This repository provides a collection of utilities, examples, and best practices for effective testing in Java applications.
+
+## Features
+- **JUnit Integration**: Seamlessly integrates with JUnit for robust unit testing.
+- **Mocking Support**: Utilizes Mockito for creating mock objects and verifying interactions.
+- **Code Coverage**: Includes tools for measuring code coverage to ensure comprehensive test coverage.
+- **Easy Setup**: Simple configuration and setup process to get started quickly.
+- **Example Tests**: A variety of example tests to demonstrate best practices and common testing scenarios.
 
 ## Test unitaire
 - **JUnit** : Framework de test unitaire pour Java
