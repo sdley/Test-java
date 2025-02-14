@@ -15,6 +15,9 @@ public class Calculatrice {
     }
 
     public int division(int a, int b) {
+        if (b == 0){
+            throw new ArithmeticException("division par zero");
+        }
         return a / b;
     }
 
